@@ -1,9 +1,6 @@
 <h1 align="center">I'm Bayu Aji Prakoso</h1>
 <h3 align="center">College Student, majoring in Bachelor Informatics, Universitas Pembangunan Nasional "Veteran" Jakarta. Passion in Software Development, Game Development, Web Development, Database.</h3>
 
-<p align="left"> <img src="<img width="720" height="1280" alt="Foto Bayu" src="https://github.com/user-attachments/assets/beaa69e4-419f-4513-ae5f-d6e0124f67c3" />
-" alt="bayjp7" /> </p>
-
 - 🌱 I’m currently learning **Next.js, C#, Unity, Supabase, FullStack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bayjp7](https://github.com/bayjp7)
