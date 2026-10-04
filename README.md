@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bayjp123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1BDDpUmPALjk0YAPoqnJjuoIGg-mbNkcJ?usp=sharing](https://drive.google.com/drive/folders/1BDDpUmPALjk0YAPoqnJjuoIGg-mbNkcJ?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1BDDpUmPALjk0YAPoqnJjuoIGg-mbNkcJ?usp=sharing](https://drive.google.com/file/d/1Zp8H7Ug7Zn_IGSXvER2C5hgJwGZZStiJ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
