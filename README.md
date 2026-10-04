@@ -1,9 +1,8 @@
 <h1 align="center">I'm Bayu Aji Prakoso</h1>
 <h3 align="center">College Student, majoring in Bachelor Informatics, Universitas Pembangunan Nasional "Veteran" Jakarta. Passion in Software Development, Game Development, Web Development, Database.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayjp7&label=Profile%20views&color=0e75b6&style=flat" alt="bayjp7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bayjp7" alt="bayjp7" /></a> </p>
+<p align="left"> <img src="<img width="720" height="1280" alt="Foto Bayu" src="https://github.com/user-attachments/assets/beaa69e4-419f-4513-ae5f-d6e0124f67c3" />
+" alt="bayjp7" /> </p>
 
 - 🌱 I’m currently learning **Next.js, C#, Unity, Supabase, FullStack**
 
